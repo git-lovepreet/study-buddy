@@ -32,6 +32,8 @@ class Assets {
   static const String avatarsAvatar9 = 'assets/avatars/avatar_9.png';
   static const String googleGgl = 'assets/google/ggl.png';
   static const String logoLogo01 = 'assets/logo/logo01.png';
+  static const String logoLogo02 = 'assets/logo/logo02.png';
+  static const String logoLogo03 = 'assets/logo/logo03.png';
   static const String slidesSlide1 = 'assets/slides/slide1.png';
   static const String slidesSlide2 = 'assets/slides/slide2.png';
   static const String slidesSlide3 = 'assets/slides/slide3.png';
